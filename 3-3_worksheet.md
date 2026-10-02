@@ -35,7 +35,7 @@
 > **Where to look:**
 >
 > * [ ] Module Three Assignment Guidelines and Rubric in D2L Brightspace
-> * [ ] [Software Requirements Specification (SRS)](analysis/paycheck_calculator_srs.md)
+> * [ ] [Software Requirements Specification (SRS)](analysis/3-3_requirements.md)
 >   * `## 0. General Description`
 >   * `## 1. Functional Requirements`
 >   * `## 2. Design Requirements`
@@ -100,7 +100,7 @@ TODO: Record the output-format requirement or write Not specified.
 
 ### 4.1 FR-2 — Regular Pay
 
-> **Where to look:** [SRS](analysis/paycheck_calculator_srs.md) → **FR-2**
+> **Where to look:** [SRS](analysis/3-3_requirements.md) → **FR-2**
 >
 > **Prompt:** What does the regular-pay requirement mean in your own words?
 
@@ -108,7 +108,7 @@ TODO: Replace with your explanation.
 
 ### 4.2 FR-3 — Overtime Pay
 
-> **Where to look:** [SRS](analysis/paycheck_calculator_srs.md) → **FR-3**
+> **Where to look:** [SRS](analysis/3-3_requirements.md) → **FR-3**
 >
 > **Prompt:** What does the phrase **above 40 hours** mean for the overtime rule?
 
@@ -116,7 +116,7 @@ TODO: Replace with your explanation.
 
 ### 4.3 FR-4 — Select the Applicable Calculation
 
-> **Where to look:** [SRS](analysis/paycheck_calculator_srs.md) → **FR-4** and relevant Module Three decision-branching content
+> **Where to look:** [SRS](analysis/3-3_requirements.md) → **FR-4** and relevant Module Three decision-branching content
 >
 > **Prompt:** Why does the design need decision branching?
 
@@ -124,7 +124,7 @@ TODO: Replace with your explanation without writing the finished branch conditio
 
 ### 4.4 FR-6 — Output Weekly Pay
 
-> **Where to look:** [SRS](analysis/paycheck_calculator_srs.md) → **FR-6**
+> **Where to look:** [SRS](analysis/3-3_requirements.md) → **FR-6**
 >
 > **Prompt:** What information must be available before the program can output the final result?
 
@@ -160,7 +160,7 @@ TODO: Record your brief explanation of the 60-hour example.
 | 40 | TODO | TODO |
 | 41 | TODO | TODO |
 
-> Compare your results with the [SRS verification cases](analysis/paycheck_calculator_srs.md#4-verification-cases). If they differ, revisit the pay rules before designing.
+> Compare your results with the [SRS verification cases](analysis/3-3_requirements.md#4-verification-cases). If they differ, revisit the pay rules before designing.
 
 ## 6. Constraints and Scope
 
@@ -200,8 +200,8 @@ Before continuing, verify:
 > **Where to look:**
 >
 > * [ ] [Design Phase instructions](design/README.md)
-> * [ ] [Software Design Document (SDD)](design/paycheck_calculator_sdd.md)
-> * [ ] [SRS](analysis/paycheck_calculator_srs.md)
+> * [ ] [Software Design Document (SDD)](design/3-3_design.md)
+> * [ ] [SRS](analysis/3-3_requirements.md)
 > * [ ] Draw.io template **README**, **Symbols**, and **Snippets** tabs
 > * [ ] Pseudocode starter comments and TODO prompts
 

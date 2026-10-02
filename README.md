@@ -73,7 +73,7 @@ Edit and submit both of these files:
 
 You may also edit:
 
-* [`paycheck_calculator_sdw.md`](paycheck_calculator_sdw.md) — Software Development Worksheet (SDW) working notes
+* [`3-3_worksheet.md`](3-3_worksheet.md) — Software Development Worksheet (SDW) working notes
 
 The SDW is a learning aid. It is not a graded deliverable unless your instructor specifically tells you otherwise.
 
@@ -193,7 +193,7 @@ Before leaving the device where you have been working:
 ```bash
 cd ~/Repos/it140-m3-assignment
 git status
-git add paycheck_calculator_sdw.md design/paycheck_calculator.drawio design/paycheck_calculator.pseudo src/paycheck_calculator.py
+git add 3-3_worksheet.md design/paycheck_calculator.drawio design/paycheck_calculator.pseudo src/paycheck_calculator.py
 git commit -m "Save Module Three assignment progress"
 git push
 ```
@@ -219,8 +219,8 @@ Open [Analyze Phase](analysis/README.md).
 During Analyze, focus on **what** the paycheck calculator must do. Use:
 
 * the official Guidelines and Rubric in D2L Brightspace;
-* the provided [Software Requirements Specification (SRS)](analysis/paycheck_calculator_srs.md); and
-* the optional [Software Development Worksheet (SDW)](paycheck_calculator_sdw.md).
+* the provided [Software Requirements Specification (SRS)](analysis/3-3_requirements.md); and
+* the optional [Software Development Worksheet (SDW)](3-3_worksheet.md).
 
 Pay particular attention to the distinction between the first 40 hours and hours **above 40**. Do not add requirements such as negative-input validation or exact output formatting when the assignment does not specify them.
 
@@ -243,7 +243,7 @@ Save your files normally while you work in VS Code. Periodically commit and push
 ```bash
 cd ~/Repos/it140-m3-assignment
 git status
-git add paycheck_calculator_sdw.md design/paycheck_calculator.drawio design/paycheck_calculator.pseudo src/paycheck_calculator.py
+git add 3-3_worksheet.md design/paycheck_calculator.drawio design/paycheck_calculator.pseudo src/paycheck_calculator.py
 git commit -m "Save Module Three assignment progress"
 git push
 ```

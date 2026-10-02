@@ -26,7 +26,7 @@ Use:
 
 * [`../src/paycheck_calculator.py`](../src/paycheck_calculator.py) — optional program you constructed;
 * your graded [flowchart](../design/paycheck_calculator.drawio) and [pseudocode](../design/paycheck_calculator.pseudo);
-* the [SRS verification cases](../analysis/paycheck_calculator_srs.md#4-verification-cases); and
+* the [SRS verification cases](../analysis/3-3_requirements.md#4-verification-cases); and
 * [`test_paycheck_calculator.py`](test_paycheck_calculator.py) — provided optional automated acceptance tests.
 
 Do not modify the provided test file to make a failing test pass.
@@ -53,7 +53,7 @@ Useful cases include:
 * a value just above 40 hours; and
 * the 60-hour example from the assignment.
 
-Compare the program result with the [SRS verification table](../analysis/paycheck_calculator_srs.md#4-verification-cases).
+Compare the program result with the [SRS verification table](../analysis/3-3_requirements.md#4-verification-cases).
 
 Also compare the path the **program** appears to follow with the path represented in your **flowchart and pseudocode**. The implementation should follow the design.
 
@@ -161,7 +161,7 @@ If coding reveals a design error, revise the graded design first and then bring 
 
 If you have difficulty:
 
-* Review the [SRS verification cases](../analysis/paycheck_calculator_srs.md#4-verification-cases).
+* Review the [SRS verification cases](../analysis/3-3_requirements.md#4-verification-cases).
 * Review [Construct](../src/README.md) for syntax, indentation, and incremental-development guidance.
 * See the [Module Three Assignment Wiki](https://github.com/GC-STEM/it140-m3-assignment/wiki) for supplemental testing and debugging explanations.
 * Use [GitHub Discussions](https://github.com/GC-STEM/it140-m3-assignment/discussions) for questions about optional practice tools.

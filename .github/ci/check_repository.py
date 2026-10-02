@@ -17,7 +17,7 @@ import xml.etree.ElementTree as ET
 REPO_ROOT = Path(__file__).resolve().parents[2]
 
 EDITABLE_PATHS = {
-    "paycheck_calculator_sdw.md",
+    "3-3_worksheet.md",
     "design/paycheck_calculator.drawio",
     "design/paycheck_calculator.pseudo",
     "src/paycheck_calculator.py",
@@ -46,12 +46,12 @@ REQUIRED_FILES = (
     ".github/workflows/tests.yml",
     ".vscode/settings.json",
     "analysis/README.md",
-    "analysis/paycheck_calculator_srs.md",
+    "analysis/3-3_requirements.md",
     "design/README.md",
     "design/paycheck_calculator.drawio",
     "design/paycheck_calculator.pseudo",
-    "design/paycheck_calculator_sdd.md",
-    "paycheck_calculator_sdw.md",
+    "design/3-3_design.md",
+    "3-3_worksheet.md",
     "src/README.md",
     "src/paycheck_calculator.py",
     "tests/README.md",
@@ -63,9 +63,9 @@ PROVIDED_MARKDOWN = (
     ".github/RЕADME.md",
     ".github/ci/README.md",
     "analysis/README.md",
-    "analysis/paycheck_calculator_srs.md",
+    "analysis/3-3_requirements.md",
     "design/README.md",
-    "design/paycheck_calculator_sdd.md",
+    "design/3-3_design.md",
     "src/README.md",
     "tests/README.md",
 )
@@ -111,7 +111,7 @@ REQUIRED_TEXT_MARKERS = {
         "## Check Your Work",
         "## Help and Support",
     ),
-    "analysis/paycheck_calculator_srs.md": (
+    "analysis/3-3_requirements.md": (
         "# Software Requirements Specification (SRS)",
         "## 1. Functional Requirements",
         "## 2. Design Requirements",
@@ -132,7 +132,7 @@ REQUIRED_TEXT_MARKERS = {
         "## 7. Review Against the Rubric",
         "## Help and Support",
     ),
-    "design/paycheck_calculator_sdd.md": (
+    "design/3-3_design.md": (
         "# Software Design Document (SDD)",
         "## 2. Solution Model",
         "## 6. Design Consistency Review",

@@ -10,7 +10,7 @@
 
 During the Analyze phase, your goal is to understand **what the paycheck calculator must do** before deciding how to represent the solution in a flowchart or pseudocode.
 
-The **Module Three Assignment Guidelines and Rubric in D2L Brightspace** is the official source for assignment requirements. The provided [Software Requirements Specification (SRS)](paycheck_calculator_srs.md) reorganizes those requirements into a software-development format so you can examine them systematically.
+The **Module Three Assignment Guidelines and Rubric in D2L Brightspace** is the official source for assignment requirements. The provided [Software Requirements Specification (SRS)](3-3_requirements.md) reorganizes those requirements into a software-development format so you can examine them systematically.
 
 The Analyze phase does not create a graded deliverable. It prepares you to create the graded flowchart and pseudocode during Design.
 
@@ -18,15 +18,15 @@ The Analyze phase does not create a graded deliverable. It prepares you to creat
 
 **This phase does not produce a graded or submitted file.**
 
-You may record brief working notes in the [Software Development Worksheet (SDW)](../paycheck_calculator_sdw.md). The SDW is a learning aid and is not submitted unless your instructor specifically asks for it.
+You may record brief working notes in the [Software Development Worksheet (SDW)](../3-3_worksheet.md). The SDW is a learning aid and is not submitted unless your instructor specifically asks for it.
 
 ## What You Will Use
 
 Use these materials:
 
 * **Module Three Assignment Guidelines and Rubric** in D2L Brightspace — official assignment and grading requirements
-* [Paycheck Calculator SRS](paycheck_calculator_srs.md) — organized requirements reference
-* [Software Development Worksheet (SDW)](../paycheck_calculator_sdw.md) — optional guided working notes
+* [Paycheck Calculator SRS](3-3_requirements.md) — organized requirements reference
+* [Software Development Worksheet (SDW)](../3-3_worksheet.md) — optional guided working notes
 
 Relevant zyBooks topics include:
 
@@ -54,7 +54,7 @@ Identify what the assignment says about:
 
 ### 2. Read the SRS
 
-Open the [SRS](paycheck_calculator_srs.md) and read it from beginning to end.
+Open the [SRS](3-3_requirements.md) and read it from beginning to end.
 
 Pay particular attention to:
 
@@ -77,7 +77,7 @@ Identify:
 * where a decision is needed; and
 * what result the program produces.
 
-Record these ideas in the Analyze section of the [SDW](../paycheck_calculator_sdw.md), if useful.
+Record these ideas in the Analyze section of the [SDW](../3-3_worksheet.md), if useful.
 
 ### 4. Interpret the Pay Rules Carefully
 
@@ -126,7 +126,7 @@ Before continuing, make sure:
 
 If you have difficulty completing this phase:
 
-* Review the [SRS](paycheck_calculator_srs.md) first.
+* Review the [SRS](3-3_requirements.md) first.
 * See the [Module Three Assignment Wiki](https://github.com/GC-STEM/it140-m3-assignment/wiki) for supplemental explanations.
 * Use [GitHub Discussions](https://github.com/GC-STEM/it140-m3-assignment/discussions) for questions about the repository or provided analysis materials.
 * Use [GitHub Issues](https://github.com/GC-STEM/it140-m3-assignment/issues) to report a technical problem with repository files or tools.

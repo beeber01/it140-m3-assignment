@@ -16,8 +16,8 @@ The current Module Three Assignment Guidelines and Rubric remains the official s
 Use these sources while designing:
 
 1. Module Three Assignment Guidelines and Rubric in D2L Brightspace
-2. [Software Requirements Specification (SRS)](../analysis/paycheck_calculator_srs.md)
-3. Optional [Software Development Worksheet (SDW)](../paycheck_calculator_sdw.md) notes
+2. [Software Requirements Specification (SRS)](../analysis/3-3_requirements.md)
+3. Optional [Software Development Worksheet (SDW)](../3-3_worksheet.md) notes
 
 Keep the distinction clear:
 

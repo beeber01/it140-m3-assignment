@@ -27,7 +27,7 @@ Use:
 * your completed [`../design/paycheck_calculator.drawio`](../design/paycheck_calculator.drawio);
 * your completed [`../design/paycheck_calculator.pseudo`](../design/paycheck_calculator.pseudo);
 * the provided [`paycheck_calculator.py`](paycheck_calculator.py) starter;
-* the [SRS](../analysis/paycheck_calculator_srs.md) when checking requirements; and
+* the [SRS](../analysis/3-3_requirements.md) when checking requirements; and
 * Module Three decision-branching concepts.
 
 Relevant zyBooks sections include:

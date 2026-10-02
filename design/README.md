@@ -24,7 +24,7 @@ Complete both files:
 * [`paycheck_calculator.drawio`](paycheck_calculator.drawio) — graded flowchart
 * [`paycheck_calculator.pseudo`](paycheck_calculator.pseudo) — graded pseudocode
 
-The [Software Design Document (SDD)](paycheck_calculator_sdd.md) provides design guidance without giving you a completed solution. The [SDW](../paycheck_calculator_sdw.md) provides optional working space.
+The [Software Design Document (SDD)](3-3_design.md) provides design guidance without giving you a completed solution. The [SDW](../3-3_worksheet.md) provides optional working space.
 
 Do not submit the SDD or SDW unless your instructor specifically requests them.
 
@@ -33,9 +33,9 @@ Do not submit the SDD or SDW unless your instructor specifically requests them.
 Use:
 
 * the Module Three Assignment Guidelines and Rubric in D2L Brightspace;
-* the [SRS](../analysis/paycheck_calculator_srs.md);
-* the [SDD](paycheck_calculator_sdd.md);
-* the optional [SDW](../paycheck_calculator_sdw.md);
+* the [SRS](../analysis/3-3_requirements.md);
+* the [SDD](3-3_design.md);
+* the optional [SDW](../3-3_worksheet.md);
 * the Draw.io starter template; and
 * the pseudocode starter template.
 
@@ -58,7 +58,7 @@ If any of these are unclear, return to the [Analyze Phase](../analysis/README.md
 
 ### 2. Plan the Solution
 
-Use the Design section of the [SDW](../paycheck_calculator_sdw.md), if useful, to plan the solution in words before placing flowchart shapes or writing detailed pseudocode.
+Use the Design section of the [SDW](../3-3_worksheet.md), if useful, to plan the solution in words before placing flowchart shapes or writing detailed pseudocode.
 
 Your plan should answer questions such as:
 
@@ -128,7 +128,7 @@ If one design contains a step or behavior the other does not, revise them until 
 
 ## 6. Trace Verification Cases
 
-Use the [SRS verification cases](../analysis/paycheck_calculator_srs.md#4-verification-cases) to trace the design by hand.
+Use the [SRS verification cases](../analysis/3-3_requirements.md#4-verification-cases) to trace the design by hand.
 
 At minimum, make sure you understand what path the design follows for:
 
@@ -181,7 +181,7 @@ The checks cannot evaluate whether your design is correct, well organized, or wo
 
 If you have difficulty completing this phase:
 
-* Compare the [SRS](../analysis/paycheck_calculator_srs.md), [SDD](paycheck_calculator_sdd.md), and your SDW notes one requirement at a time.
+* Compare the [SRS](../analysis/3-3_requirements.md), [SDD](3-3_design.md), and your SDW notes one requirement at a time.
 * See the [Module Three Assignment Wiki](https://github.com/GC-STEM/it140-m3-assignment/wiki) for supplemental explanations of flowcharts and pseudocode.
 * Use [GitHub Discussions](https://github.com/GC-STEM/it140-m3-assignment/discussions) for repository-related questions that do not request a completed graded solution.
 * Use [GitHub Issues](https://github.com/GC-STEM/it140-m3-assignment/issues) to report a technical problem with the provided design files, documentation, or automated checks.

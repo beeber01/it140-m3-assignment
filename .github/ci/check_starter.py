@@ -13,7 +13,7 @@ SOURCE_PATH = REPO_ROOT / "src/paycheck_calculator.py"
 TEST_PATH = REPO_ROOT / "tests/test_paycheck_calculator.py"
 PSEUDOCODE_PATH = REPO_ROOT / "design/paycheck_calculator.pseudo"
 DRAWIO_PATH = REPO_ROOT / "design/paycheck_calculator.drawio"
-SDW_PATH = REPO_ROOT / "paycheck_calculator_sdw.md"
+SDW_PATH = REPO_ROOT / "3-3_worksheet.md"
 
 EXPECTED_TEST_CASES = {
     "test_regular_hours": (20, 400),
